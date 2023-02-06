@@ -4,8 +4,8 @@
       <s3>
         <type>s3</type>
         <endpoint>https://sharelo-prod.us-east-1.amazonaws.com/backups/</endpoint>
-        <access_key_id>AKIAXM4XZIDV2TPB22OZ</access_key_id>
-        <secret_access_key>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</secret_access_key>
+        <access_key_id></access_key_id>
+        <secret_access_key></secret_access_key>
       </s3>
     </disks>
   </storage_configuration>
