@@ -1,2 +1,3 @@
 FROM yandex/clickhouse-server:21
-COPY ./s3.xml /etc/clickhouse-server/config.d/s3.xml
+RUN apt-get update && apt-get install -y \
+  nano
